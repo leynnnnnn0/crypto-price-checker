@@ -1,0 +1,21 @@
+.currency-box {
+    height: 70px;
+    width: 400px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    border: 1px solid white;
+}
+
+.currency-box img {
+    height: 30px;
+}
+
+.currency-name {
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+}
+
