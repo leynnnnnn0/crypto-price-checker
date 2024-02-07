@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto-price-checke/static/css/main.c5c5776b.css",
+    "main.js": "/crypto-price-checke/static/js/main.17b4d871.js",
+    "static/media/btc.png": "/crypto-price-checke/static/media/btc.2307c35051cf81f27884.png",
+    "index.html": "/crypto-price-checke/index.html",
+    "main.c5c5776b.css.map": "/crypto-price-checke/static/css/main.c5c5776b.css.map",
+    "main.17b4d871.js.map": "/crypto-price-checke/static/js/main.17b4d871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c5776b.css",
+    "static/js/main.17b4d871.js"
+  ]
+}
