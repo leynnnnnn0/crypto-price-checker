@@ -55,7 +55,6 @@ const Phone = () => {
     const store = homeStore();
   const item = store.coinSearched;
   const graphData = store.graphData;
-  console.log(graphData.length)
 
   const handleSearch = () => {
     store.getGraphData();
